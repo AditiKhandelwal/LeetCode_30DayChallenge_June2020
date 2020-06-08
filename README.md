@@ -8,6 +8,14 @@ Solutions of LeetCode 30 Day Challenge June2020
 <a href="https://github.com/AditiKhandelwal/LeetCode_30DayChallenge_June2020/blob/master/3.cpp">3. Two City Scheduling</a>
 <br>
 <a href="https://github.com/AditiKhandelwal/LeetCode_30DayChallenge_June2020/blob/master/4.cpp">4. Reverse String</a>
+<br>
+<a href="https://github.com/AditiKhandelwal/LeetCode_30DayChallenge_June2020/blob/master/5.java">5. Random Pick with Weight</a>
+<br>
+<a href="https://github.com/AditiKhandelwal/LeetCode_30DayChallenge_June2020/blob/master/6.cpp">6. Queue Reconstruction by Height</a>
+<br>
+<a href="https://github.com/AditiKhandelwal/LeetCode_30DayChallenge_June2020/blob/master/7.cpp">7. Coin Change 2</a>
+<br>
+<a href="https://github.com/AditiKhandelwal/LeetCode_30DayChallenge_June2020/blob/master/8.cpp">8. Power of Two</a>
 
 
 
